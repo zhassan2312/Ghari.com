@@ -3,6 +3,7 @@ import Slider from "../Main/Slider/Slider";
 import Category from "../Main/Category/Category";
 import Collection from "../Main/Collection/Collection";
 import Banner from "../Main/Banner/Banner";
+import Trend from "../Main/Trend/Trend";
 
 const Main = () => {
   return (
@@ -11,6 +12,7 @@ const Main = () => {
       <Category />
       <Collection />
       <Banner />
+      <Trend />
     </div>
   );
 };
