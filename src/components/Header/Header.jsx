@@ -62,7 +62,7 @@ const Header = () => {
               <h1 className='logoText'>
                 Ghari.com 
               </h1>
-              <img src="https://www.svgrepo.com/show/31266/clock-in-placeholder-shape.svg" alt="" />
+              
             </li>
             {renderMenuItems().slice(3)}
           </ul>
@@ -95,7 +95,7 @@ const Header = () => {
             <h1 className='logoText'>
               Ghari.com 
             </h1>
-            <img src="https://www.svgrepo.com/show/31266/clock-in-placeholder-shape.svg" alt="" />
+            
           </li>
         </div>
       </div>
