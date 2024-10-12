@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import "./Header.css";
 import headerData from "../../Data/Header.json";
-import logo from "../../assets/logo.png";
 
 const Header = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
