@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Ghari.com/static/css/main.e338f9c2.css",
+    "main.js": "/Ghari.com/static/js/main.3974e980.js",
+    "static/media/watch-slider2.png": "/Ghari.com/static/media/watch-slider2.b38cbdd5a45c77ac7797.png",
+    "static/media/watch-slider3.png": "/Ghari.com/static/media/watch-slider3.5dff0aff61d155cd98f5.png",
+    "static/media/watch-slider1.png": "/Ghari.com/static/media/watch-slider1.b60823ea0eb7ca72dd38.png",
+    "static/media/watch-slider4.png": "/Ghari.com/static/media/watch-slider4.b95893ac7b618eab28e2.png",
+    "static/media/banner3.webp": "/Ghari.com/static/media/banner3.ffd572f73aecae182075.webp",
+    "static/media/trend2.webp": "/Ghari.com/static/media/trend2.d34603c54f94861f2d76.webp",
+    "static/media/banner2.webp": "/Ghari.com/static/media/banner2.d4b1f5fc77664ffaac30.webp",
+    "static/media/banner1.webp": "/Ghari.com/static/media/banner1.08d6aad56ed66672c75a.webp",
+    "static/media/logo.png": "/Ghari.com/static/media/logo.a816c02076cd45d23223.png",
+    "static/media/collection-4.webp": "/Ghari.com/static/media/collection-4.8ee01d74dde577c3df4b.webp",
+    "static/media/collection-3.webp": "/Ghari.com/static/media/collection-3.c9a7682ca3584e2ed59a.webp",
+    "static/media/insta3.webp": "/Ghari.com/static/media/insta3.6d26bcd65cfdbc117ee0.webp",
+    "static/media/collection-1.webp": "/Ghari.com/static/media/collection-1.4695bf16bc8151166b60.webp",
+    "static/media/trend1.webp": "/Ghari.com/static/media/trend1.4695bf16bc8151166b60.webp",
+    "static/media/collection-2.webp": "/Ghari.com/static/media/collection-2.bd9ae95a53c63bd0237f.webp",
+    "static/media/trend4.webp": "/Ghari.com/static/media/trend4.bd9ae95a53c63bd0237f.webp",
+    "static/media/insta5.webp": "/Ghari.com/static/media/insta5.11d071281d49be8efcf2.webp",
+    "static/media/icon4.svg": "/Ghari.com/static/media/icon4.478467ad98d708b8d585.svg",
+    "static/media/insta1.webp": "/Ghari.com/static/media/insta1.9d0716206a1057a4f8e5.webp",
+    "static/media/trend3.webp": "/Ghari.com/static/media/trend3.7a4dfa4b4a3c639907a5.webp",
+    "static/media/insta4.webp": "/Ghari.com/static/media/insta4.fa1e619581cf602d9162.webp",
+    "static/media/insta2.webp": "/Ghari.com/static/media/insta2.53ed186d41e01e27c82f.webp",
+    "static/media/icon1.svg": "/Ghari.com/static/media/icon1.a4411d3eaf1f2254d71c.svg",
+    "static/media/icon3.svg": "/Ghari.com/static/media/icon3.e7add52f9796324223ae.svg",
+    "static/media/category-watch2.webp": "/Ghari.com/static/media/category-watch2.2364fe2e880c0a0e92d3.webp",
+    "static/media/category-watch5.webp": "/Ghari.com/static/media/category-watch5.07e2a25b3737c27713bc.webp",
+    "static/media/category-watch1.webp": "/Ghari.com/static/media/category-watch1.3009cf657419ffd27b61.webp",
+    "static/media/category-watch3.webp": "/Ghari.com/static/media/category-watch3.36df4e9ab00df3ca5b49.webp",
+    "static/media/icon2.svg": "/Ghari.com/static/media/icon2.c6d964264ec41d579e5a.svg",
+    "static/media/category-watch4.webp": "/Ghari.com/static/media/category-watch4.40465bba58a9b75537df.webp",
+    "index.html": "/Ghari.com/index.html",
+    "main.e338f9c2.css.map": "/Ghari.com/static/css/main.e338f9c2.css.map",
+    "main.3974e980.js.map": "/Ghari.com/static/js/main.3974e980.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e338f9c2.css",
+    "static/js/main.3974e980.js"
+  ]
+}
